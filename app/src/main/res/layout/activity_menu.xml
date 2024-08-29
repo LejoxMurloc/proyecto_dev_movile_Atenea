@@ -31,55 +31,64 @@
                 android:id="@+id/button12"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Repaso Final" />
+                android:text="Repaso Final"
+                android:textColor="@color/black"/>
 
             <Button
                 android:id="@+id/button11"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Tablas" />
+                android:text="Tablas"
+                android:textColor="@color/black"/>
 
             <Button
                 android:id="@+id/button10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Scroll y Horizontal View" />
+                android:text="Scroll y Horizontal View"
+                android:textColor="@color/black"/>
 
             <Button
                 android:id="@+id/button9"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Diseños" />
+                android:text="Diseños"
+                android:textColor="@color/black"/>
 
             <Button
-                android:id="@+id/button8"
+                android:id="@+id/btn_Reproductor"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Reproductor de musica" />
+                android:text="Reproductor de musica"
+                android:textColor="@color/black"/>
 
             <Button
-                android:id="@+id/button7"
+                android:id="@+id/btn_MargenOpti"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Margenes y Optimización" />
+                android:text="Margenes y Optimización"
+                android:textColor="@color/black"/>
 
             <Button
-                android:id="@+id/button6"
+                android:id="@+id/btn_Repaso"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Repaso" />
+                android:text="Repaso"
+                android:textColor="@color/black"/>
 
             <Button
-                android:id="@+id/button5"
+                android:id="@+id/btn_EcoEnergy"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="EcoEnergy" />
+                android:text="EcoEnergy"
+                android:textColor="@color/black"/>
 
             <Button
-                android:id="@+id/button4"
+                android:id="@+id/btn_HidroTrack"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="HidroTrack" />
+                android:text="HidroTrack"
+                android:textColor="@color/black" />
 
         </LinearLayout>
     </ScrollView>
