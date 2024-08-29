@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
-    android:padding="24dp"
+    android:padding="33dp"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
@@ -28,28 +28,28 @@
             android:orientation="vertical" >
 
             <Button
-                android:id="@+id/button12"
+                android:id="@+id/btn_RepFinal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Repaso Final"
                 android:textColor="@color/black"/>
 
             <Button
-                android:id="@+id/button11"
+                android:id="@+id/btn_Tablas"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Tablas"
                 android:textColor="@color/black"/>
 
             <Button
-                android:id="@+id/button10"
+                android:id="@+id/btn_Scroll"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Scroll y Horizontal View"
                 android:textColor="@color/black"/>
 
             <Button
-                android:id="@+id/button9"
+                android:id="@+id/btn_Diseno"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Diseños"
